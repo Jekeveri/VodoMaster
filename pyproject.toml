@@ -1,0 +1,4 @@
+dependencies = [
+  "flet-datatable2 @ git+https://github.com/flet-dev/flet_datatable2.git",
+  "flet>=0.27.6",
+]
